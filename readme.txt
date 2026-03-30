@@ -1,3 +1,5 @@
+# This Repo is archived under Pulsar-Edit since it is not used.
+
 win_iconv is a iconv implementation using Win32 API to convert.
 
 win_iconv is placed in the public domain.
